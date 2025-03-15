@@ -33,6 +33,11 @@ In this project you will build such a pipeline.
 
 ## Preliminary steps
 
+### wandb.ai
+Check out the public project at wandb.ai to get an overview:
+
+https://wandb.ai/vothanhnhan-14-free/nyc_airbnb/overview
+
 ### Supported Operating Systems
 
 This project is compatible with the following operating systems:
@@ -53,7 +58,7 @@ and click on `Fork` in the upper right corner. This will create a fork in your G
 repository that is under your control. Now clone the repository locally so you can start working on it:
 
 ```
-git clone https://github.com/[your github username]/build-ml-pipeline-for-short-term-rental-prices.git
+git clone https://github.com/vothanhnhan14/build-ml-pipeline-for-short-term-rental-prices.git
 ```
 
 and go into the repository:
